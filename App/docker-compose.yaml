@@ -1,0 +1,6 @@
+version: '1'
+services:
+  app:
+    image: rachelt2/mlassignment2:latest 
+    ports:
+      - "5001:5001"
