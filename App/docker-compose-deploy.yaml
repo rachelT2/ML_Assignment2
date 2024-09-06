@@ -1,9 +1,11 @@
 version: '3.9'
 
 services:
-  web:
+  web-st123798:
     # This is for that asking the container to execute the main.py
     command: python3 app.py
+    expose: 
+      - 5001
     # The image I upload to my docker hub
     image: rachelt2/st123798-mlassignment2:latest
     # For MAC M1 user
@@ -17,7 +19,7 @@ services:
       # Allow Traefik to talk with your service
       - traefik.enable=true
       # Tell Traefik to use port 80
-      - traefik.http.services.web-st123798.loadbalancer.server.port=80
+      - traefik.http.services.web-st123798.loadbalancer.server.port=5001
       # This config you domain name. By default, your subdomain is <service_name>-<folder_name>
       # If you which to change the subdomain name, you uncomment the below configuration
       - traefik.http.routers.web-st123798.rule=Host(`st123798.ml2023.cs.ait.ac.th`)
