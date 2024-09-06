@@ -22,7 +22,7 @@ services:
       - traefik.http.services.web-st123798.loadbalancer.server.port=5001
       # This config you domain name. By default, your subdomain is <service_name>-<folder_name>
       # If you which to change the subdomain name, you uncomment the below configuration
-      - traefik.http.routers.web-st123798.rule=Host(`st123798.ml2023.cs.ait.ac.th`)
+      - traefik.http.routers.web-st123798.rule=Host(`st123798.ml.brain.cs.ait.ac.th`)
       # Below is for enable SSL.
       - traefik.http.routers.web-st123798.tls=true
       - traefik.http.routers.web-st123798.tls.certresolver=production
