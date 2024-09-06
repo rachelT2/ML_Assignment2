@@ -1,9 +1,14 @@
-version: '1'
+version: '3.9'
+
 services:
-  dev:
+  web:
+    # This is for that asking the container to execute the main.py
     command: python3 app.py
+    # The image I upload to my docker hub
     image: rachelt2/st123798-mlassignment2:latest
+    # For MAC M1 user
     platform: linux/x86_64
+    # This will ask DASH to run on 0.0.0.0 and port 80
     environment:
       - HOST=0.0.0.0
       - PORT=80
@@ -13,8 +18,8 @@ services:
       - traefik.enable=true
       # Tell Traefik to use port 80
       - traefik.http.services.web-st123798.loadbalancer.server.port=80
-      # This config you domain name. By default, your subdomain is web-st123783
-      # If you which to change the subdomain name, you uncomment the below configurationgi
+      # This config you domain name. By default, your subdomain is <service_name>-<folder_name>
+      # If you which to change the subdomain name, you uncomment the below configuration
       - traefik.http.routers.web-st123798.rule=Host(`st123798.ml2023.cs.ait.ac.th`)
       # Below is for enable SSL.
       - traefik.http.routers.web-st123798.tls=true
