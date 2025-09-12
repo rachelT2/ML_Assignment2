@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/297688301421410131/e7c68a512c824ea1b3621fd1cf6d6a22/artifacts
+end_time: 1725392085679
+entry_point_name: ''
+experiment_id: '297688301421410131'
+lifecycle_stage: active
+run_id: e7c68a512c824ea1b3621fd1cf6d6a22
+run_name: poly_degree:True-reg-ElasticNet-momentum-0.5-method-sto-theta-xavier-lr-0.01
+run_uuid: e7c68a512c824ea1b3621fd1cf6d6a22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725392079648
+status: 3
+tags: []
+user_id: rachel

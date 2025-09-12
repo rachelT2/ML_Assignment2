@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/386988592582382167/3ada0300712144ac982432ecc2634338/artifacts
+deleted_time: 1725341202460
+end_time: 1725340540580
+entry_point_name: ''
+experiment_id: '386988592582382167'
+lifecycle_stage: deleted
+run_id: 3ada0300712144ac982432ecc2634338
+run_name: Fold-4
+run_uuid: 3ada0300712144ac982432ecc2634338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725340540551
+status: 3
+tags: []
+user_id: rachel

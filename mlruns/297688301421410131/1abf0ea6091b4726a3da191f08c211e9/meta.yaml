@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/297688301421410131/1abf0ea6091b4726a3da191f08c211e9/artifacts
+end_time: 1725341858834
+entry_point_name: ''
+experiment_id: '297688301421410131'
+lifecycle_stage: active
+run_id: 1abf0ea6091b4726a3da191f08c211e9
+run_name: poly_degree:True-reg-Ridge-momentum-0-method-mini-theta-zero-lr-0.01
+run_uuid: 1abf0ea6091b4726a3da191f08c211e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725341769491
+status: 3
+tags: []
+user_id: rachel

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/297688301421410131/acdc35305e8145c9991ff1ebb6606714/artifacts
+end_time: 1725388039897
+entry_point_name: ''
+experiment_id: '297688301421410131'
+lifecycle_stage: active
+run_id: acdc35305e8145c9991ff1ebb6606714
+run_name: poly_degree:True-reg-Normal-momentum-0-method-mini-theta-xavier-lr-0.01
+run_uuid: acdc35305e8145c9991ff1ebb6606714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725388017517
+status: 3
+tags: []
+user_id: rachel

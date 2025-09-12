@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/297688301421410131/da756e19e3e74416ba828328b08a0f5e/artifacts
+end_time: 1725393282608
+entry_point_name: ''
+experiment_id: '297688301421410131'
+lifecycle_stage: active
+run_id: da756e19e3e74416ba828328b08a0f5e
+run_name: poly_degree:True-reg-Ridge-momentum-0-method-sto-theta-xavier-lr-0.0001
+run_uuid: da756e19e3e74416ba828328b08a0f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725393248583
+status: 3
+tags: []
+user_id: rachel

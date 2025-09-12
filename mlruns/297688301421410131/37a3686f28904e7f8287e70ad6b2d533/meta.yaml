@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/297688301421410131/37a3686f28904e7f8287e70ad6b2d533/artifacts
+end_time: 1725401124851
+entry_point_name: ''
+experiment_id: '297688301421410131'
+lifecycle_stage: active
+run_id: 37a3686f28904e7f8287e70ad6b2d533
+run_name: poly_degree:False-reg-Normal-momentum-0-method-mini-theta-zero-lr-0.0001
+run_uuid: 37a3686f28904e7f8287e70ad6b2d533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725401049282
+status: 3
+tags: []
+user_id: rachel

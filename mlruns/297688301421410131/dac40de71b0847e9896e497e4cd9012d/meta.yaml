@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/297688301421410131/dac40de71b0847e9896e497e4cd9012d/artifacts
+end_time: 1725419319845
+entry_point_name: ''
+experiment_id: '297688301421410131'
+lifecycle_stage: active
+run_id: dac40de71b0847e9896e497e4cd9012d
+run_name: poly_degree:False-reg-Ridge-momentum-0-method-batch-theta-xavier-lr-0.001
+run_uuid: dac40de71b0847e9896e497e4cd9012d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725419241006
+status: 3
+tags: []
+user_id: rachel

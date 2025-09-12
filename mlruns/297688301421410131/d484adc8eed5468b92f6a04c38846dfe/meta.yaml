@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/297688301421410131/d484adc8eed5468b92f6a04c38846dfe/artifacts
+end_time: 1725395251398
+entry_point_name: ''
+experiment_id: '297688301421410131'
+lifecycle_stage: active
+run_id: d484adc8eed5468b92f6a04c38846dfe
+run_name: poly_degree:True-reg-Lasso-momentum-0-method-sto-theta-zero-lr-0.001
+run_uuid: d484adc8eed5468b92f6a04c38846dfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725395070405
+status: 3
+tags: []
+user_id: rachel

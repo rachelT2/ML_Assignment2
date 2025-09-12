@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/386988592582382167/b89fb630d37f4023a2842b8ed3e68e3f/artifacts
+deleted_time: 1725341600954
+end_time: 1725341322986
+entry_point_name: ''
+experiment_id: '386988592582382167'
+lifecycle_stage: deleted
+run_id: b89fb630d37f4023a2842b8ed3e68e3f
+run_name: poly_degree:True-reg-Ridge-momentum-0-method-batch-theta-zero-lr-0.001
+run_uuid: b89fb630d37f4023a2842b8ed3e68e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725341227469
+status: 3
+tags: []
+user_id: rachel
